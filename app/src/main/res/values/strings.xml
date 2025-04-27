@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Medicine Application</string>
+    <string name="welcome_to_the_application">Welcome to the Application!</string>
+    <string name="search_medicine">Search Medicine</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="todo">TODO</string>
+    <string name="welcome">welcome</string>
+    <string name="select_the_option">Select the option:</string>
+    <string name="upload_prescription">upload prescription</string>
+    <string name="note_enter_the_medicine_name_to_get_accurate_results">Note: Enter the medicine name to get accurate results</string>
+    <string name="search_for_medicine">Search for medicine</string>
+    <string name="search">Search</string>
+    <string name="note_upload_a_valid_and_clear_image_to_get_correct_results">Note: Upload a valid and clear image to get correct results.</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="alternatives">Alternatives</string>
+    <string name="select_an_option">Select an Option</string>
+    <string name="results">Results</string>
+    <string name="no_data_available">No data available.</string>
+    <string name="upload_prescription_">Upload Prescription</string>
+</resources>
